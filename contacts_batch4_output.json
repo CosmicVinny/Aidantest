@@ -1,0 +1,622 @@
+{
+  "Rawhide Inc.": {
+    "zi_id": "32162498",
+    "tier": "B-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "1911406418", "firstName": "Thomas", "lastName": "Camann", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3997078314", "firstName": "Kenneth", "lastName": "Edwards", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 90, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Sintering Technologies Inc.": {
+    "zi_id": "107119056",
+    "tier": "B-Tier",
+    "state": "Indiana",
+    "contacts": []
+  },
+  "The Farmers Bancorp Frankfort Indiana": {
+    "zi_id": "63310603",
+    "tier": "B-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "9422340530", "firstName": "James", "lastName": "Moore", "jobTitle": "Board Member", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "5874629921", "firstName": "Larry", "lastName": "Johnson", "jobTitle": "Chief Executive Officer & President", "contactAccuracyScore": 88, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "2578710", "firstName": "Ronald", "lastName": "McClughen", "jobTitle": "President & Chief Executive Officer & Director I, Cbai Region", "contactAccuracyScore": 82, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "927910", "firstName": "Stanley", "lastName": "Smith", "jobTitle": "President, Gill Construction Management, Inc", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17149209786", "firstName": "Edwin", "lastName": "Sahm", "jobTitle": "President Sahm's Companies", "contactAccuracyScore": 92, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1317437924", "firstName": "Christopher", "lastName": "Cook", "jobTitle": "President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "17670445206", "firstName": "Kyle", "lastName": "DeFur", "jobTitle": "President National Christian Foundation of Indiana", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "660836913", "firstName": "Daniel", "lastName": "Lahrman", "jobTitle": "President", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "276731586", "firstName": "Shawn", "lastName": "Arnott", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "758947055", "firstName": "Carroll", "lastName": "Valentino", "jobTitle": "Executive VP & Chief Operating Officer, ISO", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Tipmont Remc": {
+    "zi_id": "38355497",
+    "tier": "B-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "-1756929524", "firstName": "Janet", "lastName": "Harlow", "jobTitle": "Board Member", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-1200080985", "firstName": "Larry", "lastName": "Carlson", "jobTitle": "Board Member", "contactAccuracyScore": 89, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "7296751514", "firstName": "Matthew", "lastName": "Hamstra", "jobTitle": "Controller", "contactAccuracyScore": 88, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2030663475", "firstName": "Melissa", "lastName": "Harwood", "jobTitle": "Manager, Human Resources", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "10699211795", "firstName": "Lynn", "lastName": "Beck", "jobTitle": "Director", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "834689489", "firstName": "Scot", "lastName": "Price", "jobTitle": "Manager, Operations", "contactAccuracyScore": 81, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "8853335545", "firstName": "Cindy", "lastName": "Bass", "jobTitle": "Office Manager", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1517320034", "firstName": "Rex", "lastName": "Chou", "jobTitle": "Manager", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "3371990444", "firstName": "Michael", "lastName": "Jenkins", "jobTitle": "Manager, Procurement", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-2083754192", "firstName": "Gray", "lastName": "Huang", "jobTitle": "Senior Manager", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "American Players Theatre of Wisconson Inc.": {
+    "zi_id": "1884425",
+    "tier": "B-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "5520194171", "firstName": "Jeb", "lastName": "Burris", "jobTitle": "Director of Movement", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9570167327", "firstName": "Kimm", "lastName": "Tomala", "jobTitle": "Director, Finance", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "1277978441", "firstName": "Jessica", "lastName": "Amend", "jobTitle": "Director, Marketing", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "5870708762", "firstName": "Sara", "lastName": "Young", "jobTitle": "Managing Director", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "135921531", "firstName": "Michelle", "lastName": "Traband", "jobTitle": "Director, Development", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1799851560", "firstName": "Douglas", "lastName": "Dion", "jobTitle": "Technical Director", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2197915157", "firstName": "Hannah", "lastName": "Anderson", "jobTitle": "Marketing Associate & Director", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1277978465", "firstName": "Scott", "lastName": "Rott", "jobTitle": "Costume Director", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1311089276", "firstName": "Keira", "lastName": "Fromm", "jobTitle": "Director", "contactAccuracyScore": 77, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "5565979681", "firstName": "Thea", "lastName": "Thompson", "jobTitle": "Development Associate & Director", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Apple River State Bank": {
+    "zi_id": "7458416",
+    "tier": "B-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "60551263", "firstName": "William", "lastName": "Wubben", "jobTitle": "President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1429690730", "firstName": "David", "lastName": "Wilmarth", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "1873314708", "firstName": "Gregg", "lastName": "Duerr", "jobTitle": "Chief Lending Officer", "contactAccuracyScore": 82, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "1851466860", "firstName": "Valerie", "lastName": "Stocks", "jobTitle": "Senior Vice President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1690151772", "firstName": "Ezekiel", "lastName": "Winders", "jobTitle": "Vice President, Lending", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1403809968", "firstName": "Lance", "lastName": "Lansing", "jobTitle": "Vice President, Commercial Lending", "contactAccuracyScore": 91, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "13238041269", "firstName": "Jennifer", "lastName": "Lane", "jobTitle": "Vice President, Operations", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1418896796", "firstName": "Douglas", "lastName": "Laity", "jobTitle": "Vice President, Mortgage Lending", "contactAccuracyScore": 92, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1851466864", "firstName": "Benjamin", "lastName": "Wooden", "jobTitle": "Vice President, Lending", "contactAccuracyScore": 81, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "6368332560", "firstName": "Jeff", "lastName": "Millin", "jobTitle": "Vice President, Lending", "contactAccuracyScore": 88, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Apostolic Christian Home For The Handicapped": {
+    "zi_id": "1208491565",
+    "tier": "B-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "4048370860", "firstName": "Blake", "lastName": "Stahl", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "3135723852", "firstName": "Jonathan", "lastName": "Gauerke", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 87, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "14124850543", "firstName": "Jason", "lastName": "Stevenor", "jobTitle": "Chief People Officer", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "11322462560", "firstName": "Robert", "lastName": "Mooney", "jobTitle": "Executive Director", "contactAccuracyScore": 86, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "9103552434", "firstName": "Jolene", "lastName": "Wake", "jobTitle": "Director, Social Services & Mission Development", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "5963440789", "firstName": "Vikki", "lastName": "Steele", "jobTitle": "Program Director, Day", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "10662556802", "firstName": "Angela", "lastName": "Frank", "jobTitle": "Director, Training", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1844027739", "firstName": "Lori", "lastName": "Brittain", "jobTitle": "Manager, Domestic Services", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "16326452608", "firstName": "Christopher", "lastName": "Miller", "jobTitle": "IT Support Specialist", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "8750563487", "firstName": "Edward", "lastName": "Chism", "jobTitle": "IT Coordinator", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Fabricators and Manufacturers Association": {
+    "zi_id": "98682213",
+    "tier": "B-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "899351", "firstName": "Gerald", "lastName": "Shankel", "jobTitle": "President & Chief Executive Officer", "contactAccuracyScore": 80, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "12948871881", "firstName": "Ed", "lastName": "Youdell", "jobTitle": "President & Chief Executive Officer", "contactAccuracyScore": 80, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17858790711", "firstName": "John", "lastName": "Nandzik", "jobTitle": "President & Chief Executive Officer", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "186631690", "firstName": "Edward", "lastName": "Youdell", "jobTitle": "President & Chief Executive Officer", "contactAccuracyScore": 79, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1887218088", "firstName": "Nancy", "lastName": "Hatten", "jobTitle": "Executive Assistant To the President and Chief Executive Officer", "contactAccuracyScore": 76, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1756877684", "firstName": "Rusty", "lastName": "Demeules", "jobTitle": "President, Safety Committee", "contactAccuracyScore": 78, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "8503057328", "firstName": "Andrew", "lastName": "Flando", "jobTitle": "Vice President, Publishing & Events", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "2713531295", "firstName": "Natalie", "lastName": "Haefliger", "jobTitle": "Vice President, Finance", "contactAccuracyScore": 91, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "16045665251", "firstName": "Paul", "lastName": "Farrell", "jobTitle": "Dealer Partner", "contactAccuracyScore": 83, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17676592150", "firstName": "Steven", "lastName": "Dobos", "jobTitle": "FMAC Secretary Treasurer", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Finance Center Federal Credit Union": {
+    "zi_id": "44764938",
+    "tier": "B-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "6074413495", "firstName": "Christopher", "lastName": "Sibila", "jobTitle": "Senior Vice President, Chief Information Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "10833959901", "firstName": "Mitchell", "lastName": "Radford", "jobTitle": "Manager, Information Technology Help Desk", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "11577461539", "firstName": "Steve", "lastName": "Sheridan", "jobTitle": "Assistant VP, Information Technology Operations", "contactAccuracyScore": 83, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Human Service Agency": {
+    "zi_id": "38127960",
+    "tier": "B-Tier",
+    "state": "South Dakota",
+    "contacts": [
+      {"id": "-1658852753", "firstName": "Michelle", "lastName": "Spies", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-1059516099", "firstName": "Jodie", "lastName": "Marotz", "jobTitle": "Chief Operating Officer, Horizons", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "3467891139", "firstName": "Kari", "lastName": "Johnston", "jobTitle": "Executive Director", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "3657156288", "firstName": "Jessica", "lastName": "DeYoung", "jobTitle": "Director, Human Resources", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "145695974", "firstName": "Cyndi", "lastName": "Spieker", "jobTitle": "Manager, Residential Services & Admissions Committee Chair", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "15202742395", "firstName": "Jessica", "lastName": "Newsome", "jobTitle": "Program Director", "contactAccuracyScore": 87, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2369948790", "firstName": "Sylvia", "lastName": "Segovia", "jobTitle": "Section Manager", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "17761050540", "firstName": "Megan", "lastName": "Mcknight", "jobTitle": "L'Abri Case Manager", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "7534768268", "firstName": "Yesenia", "lastName": "Guzman", "jobTitle": "Case Manager", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9690747605", "firstName": "Debra", "lastName": "Griffith", "jobTitle": "Master's Level Mental Heath Case Manager", "contactAccuracyScore": 77, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Metro Bank": {
+    "zi_id": "374952679",
+    "tier": "B-Tier",
+    "state": "Greater London",
+    "contacts": [
+      {"id": "1912065034", "firstName": "Ricardo", "lastName": "Lewis", "jobTitle": "Manager, Information Technology Operations Databases", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-2036108551", "firstName": "Sherry", "lastName": "Brantley", "jobTitle": "Information Technology Document Management", "contactAccuracyScore": 91, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "6207256100", "firstName": "Samaroha", "lastName": "Das", "jobTitle": "Information Security Chief & Resilience Officer", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1992241590", "firstName": "Jason", "lastName": "Burgess", "jobTitle": "Manager, Information Technology Operations Digital", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1539070830", "firstName": "Paul", "lastName": "Travers", "jobTitle": "Lead IT Service Manager", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "3102948361", "firstName": "Craig", "lastName": "Wright", "jobTitle": "Manager, Information Technology Operations Cloud Services", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "14312001538", "firstName": "Othman", "lastName": "Dakhal", "jobTitle": "Manager, Information Technology Operations Projects", "contactAccuracyScore": 87, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1662785228", "firstName": "Asif", "lastName": "Jeelani", "jobTitle": "Manager, Information Technology Operations Cloud & Information Technology Operations", "contactAccuracyScore": 87, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "7179890546", "firstName": "Prem", "lastName": "Jolly", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2437438363", "firstName": "Munashe", "lastName": "Mhlanga", "jobTitle": "Manager, Internal Audit Information Technology Applications & Data Analytics", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Nishida Services Inc.": {
+    "zi_id": "200950396",
+    "tier": "B-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "-911973082", "firstName": "Caleb", "lastName": "Nishida", "jobTitle": "Director, Human Resources", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "5234701221", "firstName": "Joel", "lastName": "Nishida", "jobTitle": "Manager, Operations", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-900533754", "firstName": "Heather", "lastName": "Galbraith", "jobTitle": "Office Manager", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2811666342", "firstName": "Kali", "lastName": "Bentley", "jobTitle": "Area Manager", "contactAccuracyScore": 91, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2364079244", "firstName": "Edward", "lastName": "Walker", "jobTitle": "Area Manager", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "7103226403", "firstName": "Dennis", "lastName": "Blackwell", "jobTitle": "Department Manager", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "6021229949", "firstName": "Tamara", "lastName": "Gibson", "jobTitle": "Area Manager", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2061128338", "firstName": "Kenneth", "lastName": "White", "jobTitle": "Account Manager", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1012385850", "firstName": "Kandi", "lastName": "Frazier", "jobTitle": "Area Manager", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "14979850565", "firstName": "Allie", "lastName": "Kelly", "jobTitle": "EVS Manager -", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Awana": {
+    "zi_id": "3605292",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "515166219", "firstName": "Jack", "lastName": "Eggar", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 85, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9010644452", "firstName": "Calvin", "lastName": "Sedao", "jobTitle": "Co-Founder & Chief Executive Officer", "contactAccuracyScore": 87, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "12535752", "firstName": "Brian", "lastName": "Rhodes", "jobTitle": "Global Advocate and Advisor To the Chief Executive Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1182475667", "firstName": "Matthew", "lastName": "Markins", "jobTitle": "President & Chief Strategy Officer", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1298863397", "firstName": "Kenneth", "lastName": "Toeller", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "14644934926", "firstName": "Erin", "lastName": "Tawlks", "jobTitle": "Executive Assistant To Chief Executive Officer and President", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1734890535", "firstName": "Lynn", "lastName": "Loven", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 76, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10679897060", "firstName": "Kevin", "lastName": "White", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "17760897162", "firstName": "Elizabeth", "lastName": "Mitchell", "jobTitle": "Chief Development Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10629947268", "firstName": "Javier", "lastName": "Dutan", "jobTitle": "Co-Founder", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Citizens State Bank": {
+    "zi_id": "25939024",
+    "tier": "C-Tier",
+    "state": "Texas",
+    "contacts": [
+      {"id": "1635872432", "firstName": "Randy", "lastName": "Tegethoff", "jobTitle": "President & Chief Financial Officer & Chief Information Officer", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2060402779", "firstName": "Andrea", "lastName": "Stewart", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": false}
+    ]
+  },
+  "Jim's Formal Wear Co": {
+    "zi_id": "64783930",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "5948613828", "firstName": "Erin", "lastName": "Perkins", "jobTitle": "Project Manager, Information Technology", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1553940568", "firstName": "Jeffrey", "lastName": "Thurston", "jobTitle": "Chief Information Officer", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Central Bank Illinois": {
+    "zi_id": "351578174",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "3156382614", "firstName": "Milton", "lastName": "Vega", "jobTitle": "Deputy Manager, Payments & Financial Infrastructures", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Fairfield Memorial Hospital Association": {
+    "zi_id": "22234938",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "-1044571267", "firstName": "Amy", "lastName": "Marsh", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 88, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1410442006", "firstName": "Andrew", "lastName": "Flemer", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "1913824288", "firstName": "Timothy", "lastName": "Mitchell", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "357447583", "firstName": "Dana", "lastName": "Taylor", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "932311009", "firstName": "David", "lastName": "Kline", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 84, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2018174803", "firstName": "Mary", "lastName": "Sas", "jobTitle": "Chief Nursing Officer", "contactAccuracyScore": 91, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1787131703", "firstName": "Starr", "lastName": "Connor", "jobTitle": "Chief Nursing Officer", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "-1870481740", "firstName": "Brad", "lastName": "August", "jobTitle": "Director, Information Systems", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-1044571350", "firstName": "Kristin", "lastName": "Boldt", "jobTitle": "Controller", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "650396976", "firstName": "Jeff", "lastName": "Wise", "jobTitle": "Director, Plant Operations", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Glenview Terrace Nursing Center": {
+    "zi_id": "49153861",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "2406954051", "firstName": "Herve", "lastName": "Mompoint", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 90, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Graef-USA Inc.": {
+    "zi_id": "29083530",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "1758321877", "firstName": "Brent", "lastName": "Otto", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "365363175", "firstName": "Patrick (Pat)", "lastName": "Kressin", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 96, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "80882951", "firstName": "Kenneth", "lastName": "Grebe", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 91, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "2092162202", "firstName": "Corey", "lastName": "Zink", "jobTitle": "Shareholder and Chief Financial Officer", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "365363170", "firstName": "Timothy", "lastName": "Robinson", "jobTitle": "Chief Financial Officer & Principal", "contactAccuracyScore": 92, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "217125898", "firstName": "Brent", "lastName": "Pitcher", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-2110399161", "firstName": "Michael", "lastName": "Vogel", "jobTitle": "Chief Strategy Officer", "contactAccuracyScore": 96, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1079586754", "firstName": "Mary", "lastName": "Pettit", "jobTitle": "Chief Technical Officer", "contactAccuracyScore": 97, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "2636711", "firstName": "Burt", "lastName": "Naumann", "jobTitle": "Senior Vice President", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1544243382", "firstName": "George", "lastName": "Podrebarac", "jobTitle": "Vice President and Loop Office Managing Principal and Senior Structural Engineer", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "OperationsInc LLC": {
+    "zi_id": "29000297",
+    "tier": "C-Tier",
+    "state": "Connecticut",
+    "contacts": []
+  },
+  "Prairie Cardiovascular Consultants Ltd.": {
+    "zi_id": "1207362763",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "4189531369", "firstName": "Johnny", "lastName": "Collins", "jobTitle": "Chief Information Officer", "contactAccuracyScore": 86, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Preferred Hotel Group Inc.": {
+    "zi_id": "413833818",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "1776910851", "firstName": "C.S.", "lastName": "Ramachandran", "jobTitle": "Vice President, Hotel Revenue Optimization (Europe)", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Richland Hospital Inc.": {
+    "zi_id": "90261582",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "13636327345", "firstName": "Jerald", "lastName": "Cooper", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 97, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Seaton Corp.": {
+    "zi_id": "62063412",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": []
+  },
+  "Arandell": {
+    "zi_id": "2556047",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "141441596", "firstName": "Cassandra", "lastName": "Ford", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2025639215", "firstName": "Jerome", "lastName": "Alton", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "5086240631", "firstName": "Stephen", "lastName": "Sanfelippo", "jobTitle": "Senior Vice President, Sales & Marketing", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2981751028", "firstName": "David", "lastName": "Sanfelippo", "jobTitle": "Vice President, Manufacturing", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "3895347703", "firstName": "Kim", "lastName": "Kozlik", "jobTitle": "Vice President, Human Resources", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9878287882", "firstName": "Spencer", "lastName": "Plotkin", "jobTitle": "Vice President, Sales", "contactAccuracyScore": 84, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1533952426", "firstName": "Joyce", "lastName": "Feaster", "jobTitle": "Vice President, Human Resources", "contactAccuracyScore": 88, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "11296115197", "firstName": "Daniel", "lastName": "Leever", "jobTitle": "Vice President, Manufacturing", "contactAccuracyScore": 75, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "-1880330726", "firstName": "Amy", "lastName": "Liermann", "jobTitle": "Traffic Manager", "contactAccuracyScore": 96, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3544151059", "firstName": "William", "lastName": "Caldwell", "jobTitle": "Director, Procurement", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Bank of Mauston": {
+    "zi_id": "6933137",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "-1252641657", "firstName": "Karen", "lastName": "Bell", "jobTitle": "Associate Vice President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "11490442953", "firstName": "Kerry", "lastName": "Randall", "jobTitle": "Vice President, Mortgage Lending", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10263267023", "firstName": "Saba", "lastName": "Yusuf", "jobTitle": "Quality Assurance Automation Engineer", "contactAccuracyScore": 75, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10192290576", "firstName": "Saba", "lastName": "Yousaf", "jobTitle": "Quality Assurance Automation Engineer", "contactAccuracyScore": 76, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "324365996", "firstName": "Barbara", "lastName": "Moore", "jobTitle": "Premier Club Coordinator", "contactAccuracyScore": 96, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17683923133", "firstName": "Rebecca", "lastName": "Sundling", "jobTitle": "Asset Liability & HR Coordinator", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2365730257", "firstName": "Cy", "lastName": "Deitelhoff", "jobTitle": "Insurance Agent", "contactAccuracyScore": 77, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "324365988", "firstName": "Scott", "lastName": "Tuttle", "jobTitle": "Investment Advisor", "contactAccuracyScore": 75, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "80318302", "firstName": "R.H.", "lastName": "Hale", "jobTitle": "Assistant Cashier", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1470071252", "firstName": "Elizabeth", "lastName": "Anderson", "jobTitle": "Consumer Lender", "contactAccuracyScore": 82, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Greenfield Bancshares Inc.": {
+    "zi_id": "16728616",
+    "tier": "C-Tier",
+    "state": "Tennessee",
+    "contacts": [
+      {"id": "91813564", "firstName": "Robert", "lastName": "Rawls", "jobTitle": "Chief Information Officer", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Healthcare Associates Credit Union": {
+    "zi_id": "54415113",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "1586737494", "firstName": "Joseph", "lastName": "Kregul", "jobTitle": "President & Chief Executive Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-2037455248", "firstName": "Todd", "lastName": "Niedermeier", "jobTitle": "Senior Vice President and Chief Operating Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1396408498", "firstName": "Adam", "lastName": "DuMoulin", "jobTitle": "Senior Vice President & Chief Financial Officer", "contactAccuracyScore": 92, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "595158991", "firstName": "Mark", "lastName": "Grevious", "jobTitle": "Owner", "contactAccuracyScore": 90, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9394550277", "firstName": "Jordan", "lastName": "Csepregi", "jobTitle": "Vice President, Marketing, Cucme Certified", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "15083369676", "firstName": "Elian", "lastName": "Caban", "jobTitle": "Vice President", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1893213269", "firstName": "Wensie", "lastName": "Chen", "jobTitle": "Vice President, Finance", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "9398584416", "firstName": "Kristen", "lastName": "Sesso", "jobTitle": "Senior Director, Human Resources", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1218660271", "firstName": "Norma", "lastName": "Cantrell", "jobTitle": "Director, Business Development", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1610387500", "firstName": "Nancy", "lastName": "Curtis", "jobTitle": "Director, Training", "contactAccuracyScore": 91, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Milwaukee Center For Independence Inc.": {
+    "zi_id": "69289766",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": []
+  },
+  "Wild Blue Technologies": {
+    "zi_id": "353928704",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "2085287564", "firstName": "Chris", "lastName": "McGovern", "jobTitle": "Chief Operating Officer", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "14838852153", "firstName": "Will", "lastName": "Stankus", "jobTitle": "Partner", "contactAccuracyScore": 72, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10143904751", "firstName": "Will", "lastName": "Epern", "jobTitle": "Partner", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "10595918805", "firstName": "Mike", "lastName": "Saharski", "jobTitle": "Director, Human Resources & Vice President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1977515583", "firstName": "Carrie", "lastName": "Mueller", "jobTitle": "Director, Human Resource", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1978762258", "firstName": "John", "lastName": "Kyles", "jobTitle": "Director, Information Systems", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-2107309457", "firstName": "Brian", "lastName": "Berggren", "jobTitle": "Senior Director, Creative Services", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1007701295", "firstName": "Will", "lastName": "Debelak", "jobTitle": "Business Development Director", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "575029827", "firstName": "Brad", "lastName": "Harder", "jobTitle": "Director of Avatarium3D", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1600494460", "firstName": "DeGaull", "lastName": "Vang", "jobTitle": "Director, Motion Design", "contactAccuracyScore": 92, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Aids Resource Center of Wisconsin Inc.": {
+    "zi_id": "2673192",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": []
+  },
+  "Crystal Valley Financial Corp.": {
+    "zi_id": "44307585",
+    "tier": "C-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "1973863632", "firstName": "Eric", "lastName": "Romzek", "jobTitle": "Vice President - Director of Information Technology", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Dane County Parent Council": {
+    "zi_id": "105531575",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": []
+  },
+  "Darwill Inc.": {
+    "zi_id": "10568298",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "8484282699", "firstName": "Rolando", "lastName": "Zavala", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Hickory Point Bank": {
+    "zi_id": "36654109",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "9133714576", "firstName": "Vincent", "lastName": "Maier", "jobTitle": "Vice President, Information Technology & Information Security Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "2078894165", "firstName": "Seth", "lastName": "Morse", "jobTitle": "Assistant Vice President & Manager, Information Technology", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Lutheran Homes of Oconomowoc Inc.": {
+    "zi_id": "368806430",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "1744431124", "firstName": "Todd", "lastName": "Flemming", "jobTitle": "Manager, Information Technology & Network", "contactAccuracyScore": 83, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Rise Interactive Inc.": {
+    "zi_id": "1118392595",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": []
+  },
+  "Spooner Health System Inc.": {
+    "zi_id": "36045455",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "13481014100", "firstName": "Jeremy", "lastName": "Masterjohn", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 84, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "St. Camillus Health System Inc.": {
+    "zi_id": "79905994",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "1980338325", "firstName": "Michael", "lastName": "Libby", "jobTitle": "Chief Executive Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2075549496", "firstName": "Christopher", "lastName": "Cherney", "jobTitle": "Chief Financial Officer", "contactAccuracyScore": 86, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "10257204187", "firstName": "Brandon", "lastName": "Burkette", "jobTitle": "General Manager", "contactAccuracyScore": 75, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "8972054003", "firstName": "Krista", "lastName": "Jones", "jobTitle": "Vice President, Sales & Marketing", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "188182515", "firstName": "Pamela", "lastName": "Loveless", "jobTitle": "Vice President, Human Resources", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3045197396", "firstName": "Andrea", "lastName": "Ohman", "jobTitle": "Vice President, Operations", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "17447570590", "firstName": "Johnson", "lastName": "Vellachira", "jobTitle": "Treasurer", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "8560387990", "firstName": "Johnson", "lastName": "Varghese", "jobTitle": "Provincial Counselor Treasurer", "contactAccuracyScore": 82, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1643725192", "firstName": "Julie", "lastName": "Leveritt", "jobTitle": "Director, Marketing & Admissions", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "17447570717", "firstName": "VieAnna", "lastName": "Lucas", "jobTitle": "Executive Director of Assisted Living and Memory Care", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "The Maschhoffs": {
+    "zi_id": "31737167",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "2452512794", "firstName": "April", "lastName": "Viehmann", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "14157237239", "firstName": "Peter", "lastName": "Rochen", "jobTitle": "Manager, Information Technology Service Desk", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Walker Information Inc.": {
+    "zi_id": "128647303",
+    "tier": "C-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "2585861181", "firstName": "Anna", "lastName": "Oliger", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-2039918976", "firstName": "Richard", "lastName": "Boits", "jobTitle": "Vice President, Technology Services", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Activ Financial Systems": {
+    "zi_id": "1084675",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": []
+  },
+  "Advanced Business Group LLC": {
+    "zi_id": "1136843754",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": []
+  },
+  "Coulee Bank": {
+    "zi_id": "17664316",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "9020692171", "firstName": "Brandon", "lastName": "Pelinka", "jobTitle": "Director, Technology & Information Security", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Madison One Holdings LLC": {
+    "zi_id": "368191479",
+    "tier": "C-Tier",
+    "state": "Arizona",
+    "contacts": [
+      {"id": "1910183083", "firstName": "Jeffrey", "lastName": "Harthun", "jobTitle": "Director, Underwriting", "contactAccuracyScore": 90, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "14070967511", "firstName": "Scott", "lastName": "Sutherland", "jobTitle": "Director, Business Development & Officer", "contactAccuracyScore": 83, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "8615606678", "firstName": "Rebecca", "lastName": "Rubenstein", "jobTitle": "Head Case Manager", "contactAccuracyScore": 75, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "5176145721", "firstName": "Alana", "lastName": "Gilchrist-Little", "jobTitle": "SBA and USDA Closing Specialist", "contactAccuracyScore": 83, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "8779364490", "firstName": "Grant", "lastName": "Deane", "jobTitle": "Underwriter", "contactAccuracyScore": 82, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "10386732194", "firstName": "Lisa", "lastName": "Noel", "jobTitle": "Senior Underwriter", "contactAccuracyScore": 81, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true}
+    ]
+  },
+  "Meridian IT Inc.": {
+    "zi_id": "72634147",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "9881013253", "firstName": "Bruce", "lastName": "Clarke", "jobTitle": "UC & Infrastructure Manager, Project Management", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3110422718", "firstName": "Stephen", "lastName": "Young", "jobTitle": "Managing Director, Recently Left The Role of At Meridian Information Technology Ltd To Explore Challenges", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "11298595478", "firstName": "Michael", "lastName": "Calwas", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 86, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "11690772538", "firstName": "Sarah", "lastName": "Dilhara", "jobTitle": "Project Manager, Information Technology", "contactAccuracyScore": 83, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Prairie Du Chien Memorial Hospital Association Inc.": {
+    "zi_id": "1244085962",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": []
+  },
+  "Schumann Printers Inc.": {
+    "zi_id": "1122052199",
+    "tier": "C-Tier",
+    "state": "Wisconsin",
+    "contacts": [
+      {"id": "17010521700", "firstName": "Daniel", "lastName": "Schumann", "jobTitle": "President", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17768782804", "firstName": "Jack", "lastName": "Schumann", "jobTitle": "Founder", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "-2130791470", "firstName": "Connie", "lastName": "Herpel", "jobTitle": "Controller", "contactAccuracyScore": 89, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3276580318", "firstName": "Arlene", "lastName": "Schumann", "jobTitle": "Treasurer & Secretary", "contactAccuracyScore": 75, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1819965648", "firstName": "Kurt", "lastName": "Schmidt", "jobTitle": "Director, Engineering Services", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-2042713183", "firstName": "Linda", "lastName": "Liebenthal", "jobTitle": "Director, Customer Account Services", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "3400846613", "firstName": "Rodney", "lastName": "Wolf", "jobTitle": "Director, Operations", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1370103182", "firstName": "Mary", "lastName": "Schepp", "jobTitle": "Manager, Human Resources", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1264174711", "firstName": "Kent", "lastName": "Eilenfeldt", "jobTitle": "Prepress Manager", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2108034137", "firstName": "Debbie", "lastName": "Robbins", "jobTitle": "Mail Manager", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Children's Museum of Indianapolis Inc.": {
+    "zi_id": "28528418",
+    "tier": "C-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "1597900956", "firstName": "Andrew", "lastName": "Innes", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "318815282", "firstName": "Katherine", "lastName": "Mathena", "jobTitle": "Chief Information Officer", "contactAccuracyScore": 95, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Henricksen": {
+    "zi_id": "28133079",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "8568396336", "firstName": "Jorge", "lastName": "Anaya", "jobTitle": "Principal, Chief Financial Officer", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "12848516657", "firstName": "Russell", "lastName": "Frees", "jobTitle": "President", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "-884852005", "firstName": "Gosia", "lastName": "Humes", "jobTitle": "General Manager DC", "contactAccuracyScore": 91, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "5802790808", "firstName": "Jennie", "lastName": "Tatum", "jobTitle": "Principal General Manager, TN", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "17675788652", "firstName": "Erin", "lastName": "Costello", "jobTitle": "General Manager - COFCO, A Henricksen Company", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "213810886", "firstName": "Steven", "lastName": "Kuehl", "jobTitle": "Vice President and General Manager Wisconsin", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "6427631970", "firstName": "Debbie", "lastName": "Barnes", "jobTitle": "Principal General Manager - MN", "contactAccuracyScore": 99, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "607945581", "firstName": "Michael", "lastName": "Assell", "jobTitle": "Vice President, Operations", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1671434635", "firstName": "Richard", "lastName": "Failla", "jobTitle": "Vice President, Sales & Marketing", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "3779736062", "firstName": "Megan", "lastName": "Stluka-Benn", "jobTitle": "Senior HR Business Partner", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Intl Union of Operating Engineers - Local 150": {
+    "zi_id": "1119806856",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "1874927303", "firstName": "James", "lastName": "Sweeney", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "17773902856", "firstName": "James", "lastName": "Crane", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17773902755", "firstName": "William", "lastName": "Maloney", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "11146575263", "firstName": "William", "lastName": "Law", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 92, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17773902858", "firstName": "William", "lastName": "Martin", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17773902859", "firstName": "Thomas", "lastName": "Rodd", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "17773902587", "firstName": "John", "lastName": "Lynch", "jobTitle": "President & Manager, Business", "contactAccuracyScore": 88, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1885290636", "firstName": "Barbara", "lastName": "Farr", "jobTitle": "Administrative Assistant To James Sweeney, President- Business Manager", "contactAccuracyScore": 85, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2766325133", "firstName": "Margaret", "lastName": "Lesniak", "jobTitle": "Assistant To James Sweeney, President- Business Manager", "contactAccuracyScore": 89, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "1885291267", "firstName": "Michael", "lastName": "Kresge", "jobTitle": "Vice President", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "Ada S Mckinley Community Services Inc.": {
+    "zi_id": "1182098",
+    "tier": "C-Tier",
+    "state": "Illinois",
+    "contacts": [
+      {"id": "1781539047", "firstName": "Christopher", "lastName": "Kulik", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1684556567", "firstName": "Peter", "lastName": "Greetis", "jobTitle": "Vice President, Information Technology", "contactAccuracyScore": 90, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  },
+  "ONE ACRE FUND": {
+    "zi_id": "103139808",
+    "tier": "C-Tier",
+    "state": "New York",
+    "contacts": [
+      {"id": "-1403976825", "firstName": "Sian", "lastName": "Kiri", "jobTitle": "Head Chief Technology Officer, Office of", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2435315617", "firstName": "Sean", "lastName": "Gray", "jobTitle": "Director, Information Technology & Business Operations", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "2435321461", "firstName": "Agnes", "lastName": "Niyonsenga", "jobTitle": "IT Service Management Lead", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "1518167965", "firstName": "Commode", "lastName": "Dushimimana", "jobTitle": "Infrastructure Manager", "contactAccuracyScore": 94, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "2850596563", "firstName": "Jeanne", "lastName": "Oswala", "jobTitle": "Countries IT Operations Manager, Growth", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "3103124872", "firstName": "Timothy", "lastName": "Whelan", "jobTitle": "Chief Technology Officer", "contactAccuracyScore": 93, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true},
+      {"id": "-1623892994", "firstName": "Rodgers", "lastName": "Koivisto", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 89, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "2435319355", "firstName": "Christian", "lastName": "Muhire", "jobTitle": "Director, Infrastructure", "contactAccuracyScore": 87, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false},
+      {"id": "5953806140", "firstName": "Bizimana", "lastName": "Pacifique", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 84, "hasEmail": false, "hasDirectPhone": false, "hasMobilePhone": false}
+    ]
+  },
+  "Rising Star Casino Resort": {
+    "zi_id": "356014735",
+    "tier": "C-Tier",
+    "state": "Indiana",
+    "contacts": [
+      {"id": "17686030656", "firstName": "Mark", "lastName": "Blackham", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 98, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": false},
+      {"id": "14704377586", "firstName": "Andrew", "lastName": "Smith", "jobTitle": "Manager, Information Technology", "contactAccuracyScore": 97, "hasEmail": true, "hasDirectPhone": true, "hasMobilePhone": true},
+      {"id": "1960809598", "firstName": "Derek", "lastName": "Dishman", "jobTitle": "Director, Information Technology", "contactAccuracyScore": 75, "hasEmail": true, "hasDirectPhone": false, "hasMobilePhone": true}
+    ]
+  }
+}
