@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ZoomInfo__enrich_companies",
+      "mcp__ZoomInfo__enrich_intent",
+      "mcp__ZoomInfo__get_recommended_contacts",
+      "mcp__ZoomInfo__search_contacts",
+      "mcp__ZoomInfo__enrich_contacts"
+    ]
+  }
+}
